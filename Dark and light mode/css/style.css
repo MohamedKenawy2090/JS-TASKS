@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+padding: 0;
+margin: 0;
+}
+.contianer{
+    display: flex;
+    justify-content: end;
+padding: 20px 40px;
+
+}
+.contianer #dark{
+    padding: 0 40px;
+    cursor: pointer;
+}
+.contianer #light{
+    padding: 0 10px;
+    cursor: pointer;
+}
