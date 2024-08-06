@@ -1,0 +1,158 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.home
+{
+height: 100vh;
+background-image: url(img/shutterstock_277750193.jpg);
+background-size: cover;
+}
+.home .home-nav
+{
+background-color: rgba(0,0,0,.5);
+}
+.home .home-nav ul
+{
+display: inline-block;
+list-style: none;
+margin-left: 700px;
+}
+.home .home-nav ul li
+{
+    display:inline-block;
+    padding: 20px;
+}
+.home .home-nav ul li a
+{
+ text-decoration: none;
+ color: white;
+ font-family: cursive;
+    font-weight:bold;
+    font-style: normal;
+    font-size: 18px;
+}
+.home .home-nav a:hover
+{
+    color:rgba(85, 194, 132, 0.5);
+
+}
+.home .home-nav img
+{
+    width:10%;
+    display: inline-block;
+}
+.home .home-content
+{
+    display: block;
+    text-align: center;
+    margin-top: 200px;
+    color: white;
+    font-weight: bold;
+}
+.home .home-content h1
+{
+     
+        margin-top: 12px;
+        font-size:20px;
+}
+.home .home-content p
+{
+margin-top:13px;
+font-size: 26px;
+letter-spacing:0.5ch;
+}
+.about-us
+{    height:100vh;
+     background-image: url(img/bgs.jpg);
+     background-size: cover;
+     background-attachment:fixed;
+}
+.about-us .us
+{
+    float:left;
+    width: 10%;
+    display: inline-block;
+}
+.about-us .gall
+{
+margin: 5px;
+float: left;
+ border: solid 1xp black;
+ width:180px;
+ margin-left: 120px;
+ margin-top: 200px;
+ background-color: rgba(0,0,0,.5);
+ border-radius: 40px; 
+}
+.about-us .gall img  
+{   
+    width: 100%;
+    border-radius:100px;
+    background-color: beige;
+}
+.about-us .desc
+{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+.about-us .HomeNav
+{
+    background-color: rgba(0,0,0,.5);
+}
+.about-us .HomeNav ul 
+{
+    display: inline-block;
+    list-style: none;
+    margin-left: 700px;
+}
+.about-us .HomeNav ul li 
+{
+display: inline-block;
+padding: 20px;
+}
+.about-us .HomeNav a
+{
+        text-decoration: none;
+        color: white;
+        font-family: cursive;
+           font-weight:bold;
+           font-style: normal;
+           font-size: 18px;      
+}
+.about-us .HomeNav a:hover
+{
+    color:rgba(85, 194, 132, 0.5);
+
+}
+.c-g
+{
+    height: 100vh;
+    background-color: rgba(0,0,0,.5);
+    background-size: cover;
+    background-attachment: fixed;
+}
+ .Gll
+{ 
+    margin: 5px;
+    float: left;
+     border: solid 1xp black;
+     width:180px;
+     margin-left: 120px;
+     margin-top: 200px;
+     border-radius: 40px;
+    }
+    .c-g .Gll img
+{ float: left;
+    display: inline-block;
+    width: 100%;
+    border-radius:100px;
+    background-color: beige;
+    }
+    #Phone
+    {
+        color:red:
+    }
