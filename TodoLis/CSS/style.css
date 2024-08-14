@@ -1,0 +1,78 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+body{
+    background-color: #002f;
+}
+span{
+    color: red;
+    font-size: 32px;
+        font-family: "Patua One", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      .logo{
+        color: #ffe;
+            font-family: "Grey Qo", cursive;
+            font-weight: 400;
+            font-style: normal;      
+            font-size: 42px;
+      }
+      .container{
+        background-color: #fff;
+        color: #002f;
+        font-weight:600;
+        font-size: 22px;
+        box-shadow: 20px 20px rgba(2,2,2, 0.2);
+        border-radius: 20px;
+        position: relative;
+      }
+  label{
+    margin-left:300px;
+  }
+  h1{
+    color: #002f;
+  }
+  ul{
+    list-style: none;
+    padding: 0;
+    margin-left:40px;
+     
+  }
+  .contner{
+    width: 90%;
+background-color: #002f;
+  }
+  li{
+    font-weight:400;
+    padding:10px 30px;
+    margin-top: 20px;
+   color: #000;
+background-color: #ddd;
+font-family: "Patua One", serif;
+  }
+  .remove{
+    background-color: red;
+    position: relative;
+    left:800px;
+    top:-35px;
+    border-radius:5px;
+    width: 100px;
+    color: #ddd;
+    font-weight: 400;
+    font-family: "Patua One", serif;
+  }
+  .done{
+  background-color: green;
+    position: relative;
+    left:500px;
+    top:-35px;
+    border-radius:5px;
+    width: 100px;
+    color: #ddd;
+    font-weight: 400;
+    font-family: "Patua One", serif; 
+    border-color: #23f;
+ }
